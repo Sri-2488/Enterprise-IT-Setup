@@ -5,7 +5,7 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 * **VMware Workstation**-  Virtualization platform
 * **Windows Server 2022** – Core infrastructure server
 * **Active Directory Domain Services (AD DS)** – User and resource management
-* **Windows 10/11 Client Machine** – Domain-joined workstation
+* **Windows 10 Client Machine** – Domain-joined workstation
 * **Ubuntu Server** – Linux-based server integration
 * **AWS EC2 Instance** – Cloud service deployment
 
