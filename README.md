@@ -47,43 +47,40 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 * Established a connection to the domain controller then proceed to join the domain.
 * Need to check that the client is listed in the Active Directory management console.
 
-  <img width="239" alt="p29" src="https://github.com/user-attachments/assets/7f63a396-f00a-4684-a369-3c470c80e4b2" /> </br>
-
   <img width="392" alt="p45" src="https://github.com/user-attachments/assets/9c86ba18-3d15-412a-9dc2-f2182558db02" /> </br>
+  ![s26](https://github.com/user-attachments/assets/14b93711-41b9-49fb-bd53-9aac3e002bb3)             </br>
+  ![s27](https://github.com/user-attachments/assets/d7a758fb-229c-4918-9d75-dbef312c0711)               </br>
+![s28](https://github.com/user-attachments/assets/ec03ea2a-bcd0-4767-b64a-92ed606ef73f)                           </br>
+![s29](https://github.com/user-attachments/assets/1b9a03d6-ca6e-409b-841c-656413d47384)                                </br>
+![s30](https://github.com/user-attachments/assets/0115bacd-e282-458a-b0a6-d8931d8b9c58)                               </br>
+![s31](https://github.com/user-attachments/assets/9bec7a0d-e4a4-4467-ac4b-77cea8efd19c)
+![s32](https://github.com/user-attachments/assets/072bd4aa-a0db-4c6e-9919-77c133e03c27)
+![s34](https://github.com/user-attachments/assets/147d4c79-5034-48b8-a940-5191b6b61a0a)
 
-  <img width="221" alt="p46" src="https://github.com/user-attachments/assets/89f4cf63-8df4-4067-a0b9-944ec2988b06" /> </br>
-
-  <img width="304" alt="p48" src="https://github.com/user-attachments/assets/2f9c7d95-6303-4152-8004-922f8533ecdb" /> </br>
 
   
-  <img width="501" alt="p51" src="https://github.com/user-attachments/assets/f2ac809a-589c-4a9a-a8b1-1c3fc6d51dfe" />
 
 **Step-6: Configured Group Policies**
 * Enforced security policies through the use of Group Policy Management.
 * Applied policies to domain-joined users and machines.
 
-  <img width="455" alt="p36" src="https://github.com/user-attachments/assets/1d5cff6e-3a55-4afc-95a3-45f5d6a0a002" /> </br>
+![s17](https://github.com/user-attachments/assets/952b447e-20bb-4c3e-8d36-f32aa67498be)             </br>
+![s18](https://github.com/user-attachments/assets/1d532666-b722-46f2-9908-3383a09c63ff)                     </br>
+![s21](https://github.com/user-attachments/assets/fe57f3de-414b-44be-b7b5-015e05675bb1)                           </br>
+![s23](https://github.com/user-attachments/assets/da29ebaf-b5d1-4407-a19e-c2bb7d1a0f6d)                                    </br>
+![s24](https://github.com/user-attachments/assets/8f9338a8-c765-43c8-8258-92b2f89be8c8)                                         </br>
+![s25](https://github.com/user-attachments/assets/7f16ceb6-1f29-4a78-a825-6b437647c214)                                 </br>
 
-  <img width="503" alt="p40" src="https://github.com/user-attachments/assets/c54db154-2077-4d7f-a4bb-d20800151660" /> </br>
-
-  <img width="491" alt="p39" src="https://github.com/user-attachments/assets/71480a23-1808-401f-83c0-252ba2bb82d1" /> </br>
-
-  <img width="410" alt="p33" src="https://github.com/user-attachments/assets/ac8d7f37-cf28-49df-8b2b-51a3b31ea988" />
 
 **Step-7: Configured File Sharing & Remote Access**
 * Established shared folders on Windows Server to permit access across the entire network.
 * Tested file access from client machines.
 * Ensured Remote Desktop is functional.
+![s36](https://github.com/user-attachments/assets/3060cbba-df67-43fd-b9d9-14d57c4325cf) </br>
+![s37](https://github.com/user-attachments/assets/e170bbe8-c037-411f-903f-93fb7ff19ae0) </br>
+![s38](https://github.com/user-attachments/assets/d5b6e68c-967e-43c1-8d34-9d7593c53df5) </br>
 
-  <figure>
-  <img width="500" alt="p64" src="https://github.com/user-attachments/assets/4adc84c0-d691-454b-a422-fe7fcdc5cc16" /> 
-  <figcaption> Windows Server</figcaption>
-
-    <img width="503" alt="p50" src="https://github.com/user-attachments/assets/9acfd50f-8487-48ee-bf6a-e1462e2df892" />
-
-  <img width="509" alt="p66" src="https://github.com/user-attachments/assets/95267543-4ced-4824-adfb-f9fb74f2de89" />
-    <figcaption> Windows 10 Client Machine <figcaption> 
-   </figure>
+ 
 **Step-8: Install and Configure a Linux Server**
 * Instsalled an Ubuntu Server Virtual Machine and established SSH configuration to enable secure remote connections.
   
@@ -91,7 +88,10 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 
 <img width="491" alt="q3" src="https://github.com/user-attachments/assets/42feb1b2-ce05-4830-ba4c-a116140a9e91" /> </br>
 
-<img width="503" alt="q6" src="https://github.com/user-attachments/assets/e77ed3c9-f81b-430b-9709-4233a9176dbe" />
+![s39](https://github.com/user-attachments/assets/a47cf99e-a9cb-40ec-ac31-de9bd455930b)    </br>
+![s40](https://github.com/user-attachments/assets/97c219de-9472-4363-90f6-85ce676add2f)           </br>
+
+![s41](https://github.com/user-attachments/assets/d768a3c8-47b6-49f1-93aa-1116ae122768)           </br>
 
 **Step-9: Deployment of Cloud Services on AWS**
 * Established an AWS account before launching an EC2 instance using Windows or Linux.
