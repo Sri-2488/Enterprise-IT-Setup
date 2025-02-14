@@ -29,20 +29,18 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 * Elevated the server to function as a domain controller and initialize a new domain.
 * Confirmed Active Directory Domain Services (AD DS) configuration through Active Directory Users and Computers.
 
- <img width="404" alt="p13" src="https://github.com/user-attachments/assets/9a477089-6f46-4506-bbcb-b56699be353e" /> </br>
+   <img width="374" alt="s1" src="https://github.com/user-attachments/assets/5d852c53-4b11-43af-b578-8d1012dbd53c" /> </br>
+   <img width="380" alt="s2" src="https://github.com/user-attachments/assets/328a567c-e654-4894-a163-36f576b54b36" /></br>
+   <img width="375" alt="s3" src="https://github.com/user-attachments/assets/d25e4526-8f17-47d5-a091-31a5db24dec6" /> </br>
+   <img width="382" alt="s4" src="https://github.com/user-attachments/assets/790a3bd1-dde8-45d9-8134-2ef591babb6e" /> </br>
+   <img width="518" alt="s6" src="https://github.com/user-attachments/assets/f8c9ed53-e286-448d-862e-a64b57c4a475" /> </br>
+  ![s7](https://github.com/user-attachments/assets/920362d6-4f22-44fb-8623-d28b83e35349)                                  </br>
+ ![s13](https://github.com/user-attachments/assets/9f813242-1862-4577-af33-d31a6ff2c72b)                                </br>
+  ![s12](https://github.com/user-attachments/assets/f7fb115e-5fb3-4996-8166-99c9ca05d8ca)                              </br>
  
-  <img width="437" alt="p14" src="https://github.com/user-attachments/assets/0172b327-2c72-4d43-82cf-192b6cc79d15" /></br>
- 
-  <img width="512" alt="p16" src="https://github.com/user-attachments/assets/fdb5fce2-265b-429f-a531-7912e4f97c83" /> </br>
-  
-  <img width="513" alt="p19" src="https://github.com/user-attachments/assets/ee871f40-57de-452c-a88f-f0d6698d4d6e" /> </br>
- 
-  <img width="289" alt="p23" src="https://github.com/user-attachments/assets/50831155-68f9-43d1-8855-41d7963a4ffd" /> </br>
+![s14](https://github.com/user-attachments/assets/6e294462-2a6d-46bb-a4d2-5a9f18b08c81)                                             </br>
+ ![s16](https://github.com/user-attachments/assets/be3fb6f4-a570-4371-9f3c-bd377114a7db)                                       </br>
 
-  <img width="400" alt="p25" src="https://github.com/user-attachments/assets/6b84aedd-abf5-487a-bde6-d6475d5bcf53" /> </br>
-  
-  <img width="500" alt="p21" src="https://github.com/user-attachments/assets/ff033ee4-1b08-4ef1-a2c0-b70244941f95" />
-  
 
 **Step-5: Connected the Windows Client Machine to the Domain**
 * Setup a Windows 10 virtual machine that functions as a client.
