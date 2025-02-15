@@ -19,6 +19,7 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 * Loaded Windows Server ISO and complete installation.
 * Configured Computer Name, static IP and administrative credentials.
 
+
 **Step-3: Configured Windows Server & Enable Remote Desktop**
 * Given the server a new name then configure network settings.
 * Turn on Remote Desktop Protocol (RDP) for accessing machines remotely.
@@ -28,6 +29,7 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 * Installed AD DS role via Server Manager.
 * Elevated the server to function as a domain controller and initialize a new domain.
 * Confirmed Active Directory Domain Services (AD DS) configuration through Active Directory Users and Computers.
+* Created Users, Groups and assigned Users in Groups.
 
    <img width="374" alt="s1" src="https://github.com/user-attachments/assets/5d852c53-4b11-43af-b578-8d1012dbd53c" /> </br>
    <img width="380" alt="s2" src="https://github.com/user-attachments/assets/328a567c-e654-4894-a163-36f576b54b36" /></br>
@@ -61,6 +63,7 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 
 **Step-6: Configured Group Policies**
 * Enforced security policies through the use of Group Policy Management.
+* Created Organizational Units (OU), created some of the policies in them and assigned users or groups to the policies.
 * Applied policies to domain-joined users and machines.
 
 ![s17](https://github.com/user-attachments/assets/952b447e-20bb-4c3e-8d36-f32aa67498be)             </br>
@@ -98,10 +101,20 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 * Remotely connected and configured cloud-based services.
   
 <img width="515" alt="r3" src="https://github.com/user-attachments/assets/3021daf5-c77e-4e3d-89a2-9e84b4c2a0d2" /> </br>
+<img width="486" alt="s42" src="https://github.com/user-attachments/assets/d52e8e9e-b811-43bf-b976-d768b5ce08b1" /> </br>
+<img width="598" alt="s43" src="https://github.com/user-attachments/assets/5a095010-a4ba-46c7-a580-9967626970f7" />  </br>
+<img width="650" alt="r8" src="https://github.com/user-attachments/assets/9fe40536-ad9a-4199-8642-0ab9402bbaa0" />  </br>
+<img width="487" alt="r10" src="https://github.com/user-attachments/assets/5276de7a-6e58-47ff-b014-3715cf18cd6d" /> </br>
+<img width="715" alt="r11" src="https://github.com/user-attachments/assets/e1852912-9638-4cff-9f81-8a46fc2f790e" />  </br>
+<img width="680" alt="r12" src="https://github.com/user-attachments/assets/4a259ec1-e3ae-4bab-b714-e33c5a720f6e" /> </br>
+<img width="581" alt="r13" src="https://github.com/user-attachments/assets/fdd174ee-9399-408d-a565-885f78748259" />
 
-<img width="515" alt="r5" src="https://github.com/user-attachments/assets/3670ec3f-079e-4adb-a493-648070949a24" /> </br>
 
-<img width="478" alt="r6" src="https://github.com/user-attachments/assets/386beb20-8fc2-41b6-a0b8-79f693a1a2e6" />
+ 
+
+
+
+
 
 # Project Goals
 This project aims to create an extensive Windows Server network environment via VMware Workstation featuring Active Directory Domain Services (AD DS) setup and domain joining for Windows clients. The project extends to setting up an Ubuntu Linux virtual machine for testing purposes while configuring network services and deploying an AWS EC2 instance to replicate cloud-based operations. This project delivers practical experience for users to merge on-premise data centers with cloud platforms while concentrating on remote access methods and security settings.
