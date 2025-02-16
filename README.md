@@ -83,7 +83,7 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 ![s38](https://github.com/user-attachments/assets/d5b6e68c-967e-43c1-8d34-9d7593c53df5) </br>
 
  
-**Step-8: Install and Configure a Linux Server**
+**Step-8: Install and Configured a Linux Server**
 * Instsalled an Ubuntu Server Virtual Machine and established SSH configuration to enable secure remote connections.
   
 <img width="522" alt="p2" src="https://github.com/user-attachments/assets/be425a8d-ca68-44a7-99fc-f230d76c9d09" /> </br>
@@ -96,7 +96,7 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 ![s41](https://github.com/user-attachments/assets/d768a3c8-47b6-49f1-93aa-1116ae122768)     </br>
 
 **Step-9: Deployment of Cloud Services on AWS**
-* Established an AWS account before launching an EC2 instance using Windows or Linux.
+* Established an AWS account before launching an EC2 instance using Linux.
 * Configured firewall controls to enable SSH and RDP connectivity.
 * Remotely connected and configured cloud-based services.
   
@@ -108,12 +108,6 @@ The project focuses on setting up and deploying an IT infrastructure through VMw
 <img width="715" alt="r11" src="https://github.com/user-attachments/assets/e1852912-9638-4cff-9f81-8a46fc2f790e" />  </br>
 <img width="680" alt="r12" src="https://github.com/user-attachments/assets/4a259ec1-e3ae-4bab-b714-e33c5a720f6e" /> </br>
 <img width="581" alt="r13" src="https://github.com/user-attachments/assets/fdd174ee-9399-408d-a565-885f78748259" />
-
-
- 
-
-
-
 
 
 # Project Goals
